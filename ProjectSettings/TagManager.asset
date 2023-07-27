@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Pieces
+  - Enemy
+  - Player
+  - PlayerBullet
+  - EnemyBullet
+  - BulletDestructor
+  - GridDetector
+  - BounceWall
+  - LifeZone
+  - ArrowReserve
+  - ArrowGameplay
+  - ArrowRestart
+  - PlayerWall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2083561301
+    locked: 0
+  - name: BackgroundGridEquipment
+    uniqueID: 3759798569
+    locked: 0
+  - name: GridEquipment
+    uniqueID: 3275735771
+    locked: 0
+  - name: PiecesEquipment
+    uniqueID: 305014975
+    locked: 0
+  - name: BackgroundGridReserve
+    uniqueID: 3858943011
+    locked: 0
+  - name: GridReserve
+    uniqueID: 1518678285
+    locked: 0
+  - name: PiecesReserve
+    uniqueID: 3745256211
+    locked: 0
+  - name: PieceGrabbed
+    uniqueID: 1060427255
+    locked: 0
+  - name: Visuals
+    uniqueID: 3634707227
+    locked: 0
